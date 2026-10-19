@@ -16,6 +16,13 @@ I'm an undergraduate student studying Computer Systems Engineering in Kenya, pas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+---
+
+### 💡 Daily Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+👀 **Profile Views:** ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=bluestyle=flat)
+
 
 ---
 
