@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Emmanuel 👋
 
-<!--
-**Blackkageno/Blackkageno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student studying Computer Systems Engineering in Kenya, passionate about building web apps and tinkering with hardware.
 
-Here are some ideas to get you started:
+* 💻 **Primary Focus:** Web development, systems programming, and hardware projects
+* 🎯 **Current Focus:** Balancing my degree with clean code and cool side projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+---
+
+### 📊 GitHub Stats
+
+[![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blackkageno&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackkageno&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
